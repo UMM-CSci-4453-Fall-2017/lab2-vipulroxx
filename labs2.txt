@@ -1,0 +1,12 @@
+Vipul Sharma
+Laverne Schrock
+
+Thoughts:
+- We are viewing it as a movie theatre point of sale system.
+- Recording the sales, items sold.
+- Ability to set time sensitive prices.
+- View sales summary for arbitary time periods (filtering by employees, items, etc).
+- Recording current employee operating the system.
+- Managing the inventory.
+- Managing temporary pricing.
+- For user interaction the employee should only be presented with the items that are currently being offered.
